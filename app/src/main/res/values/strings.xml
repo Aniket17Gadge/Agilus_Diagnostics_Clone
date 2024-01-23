@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Agilus Diagnostics Clone</string>
+    <string name="app_name2">Your Preferred</string>
+    <string name="app_name3">Diagonostics Partner</string>
+
+    <string-array name="location">
+        <item>Mumbai</item>
+        <item>Pune</item>
+        <item>Mumbai</item>
+        <item>Pune</item>
+        <item>Mumbai</item>
+        <item>Pune</item>
+        <item>Mumbai</item>
+        <item>Pune</item>
+        <item>Mumbai</item>
+        <item>Pune</item>
+        <item>Mumbai</item>
+        <item>Pune</item>
+
+
+    </string-array>
+</resources>
